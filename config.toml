@@ -1,3 +1,22 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://4lch4.social'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '4lch4 Socials'
+theme='bootstrap-bp-hugo-startpage'
+copyright = "4lch4"
+enableRobotsTXT = true
+pygmentsCodeFences = true
+canonifyurls = true
+paginate = 5
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[Author]
+  name = '4lch4'
+
+[params]
+  description = "A collection of links to my presence on the internet."
+  # images = ["logo.jpg"]
+  # startPageColumns = true
+  welcomeText = "Links to my presence on the internet"

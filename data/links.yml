@@ -1,0 +1,47 @@
+- group: Social Media
+  items:
+    - title: Reddit
+      url: https://www.reddit.com/u/4lch4
+      icon: fab fa-reddit
+    - title: Twitter
+      url: https://twitter.com/4lch4
+      icon: fab fa-twitter
+    - title: GitHub
+      url: https://github.com/4lch4
+      icon: fab fa-github
+    - title: Discord
+      url: https://discord.gg/W72x4Ks
+      icon: fab fa-discord
+    - title: LinkedIn
+      url: https://linkedin.com/in/devin-leaman-49622429
+      icon: fab fa-linkedin
+    - title: Dev.to
+      url: https://dev.to/4lch4
+      icon: fab fa-dev
+    - title: Facebook
+      url: https://facebook.com/4lch4
+      icon: fab fa-facebook
+    - title: StackOverflow
+      url: https://stackoverflow.com/users/2998850/4lch4
+      icon: fab fa-stack-overflow
+    - title: Instagram
+      url: https://www.instagram.com/4lch4/
+      icon: fab fa-instagram
+    - title: E-Mail
+      url: mailto:hey@4lch4.email
+      icon: fas fa-at
+    - title: Snapchat
+      url: https://snapchat.com/add/4lch4
+      icon: fab fa-snapchat
+    - title: Spotify
+      url: https://open.spotify.com/user/5m6kdwdcv30gwsffv6hpqtwi4?si=H2EgC4pGTfWhS00HXfe63A
+      icon: fab fa-spotify
+    - title: Twitch
+      url: https://twitch.tv/4lch4_
+      icon: fab fa-twitch
+    - title: Steam
+      url: https://steamcommunity.com/id/4lch4
+      icon: fab fa-steam
+    - title: TikTok
+      url: https://www.tiktok.com/@alchastuff
+      icon: fa-brands fa-tiktok
