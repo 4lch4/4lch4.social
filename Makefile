@@ -13,6 +13,11 @@ update-tag:
 	@git tag v$(VERSION) -m "Release v$(VERSION)"
 	@$(MAKE) push
 
+update-theme:
+	@git add themes/hugo-profile
+	@git commit -m 'chore: updated hugo-profile submodule'
+	@git push
+
 push:
 	@echo "Pushing to GitHub..."
 	@git push --tags
