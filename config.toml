@@ -6,7 +6,7 @@ copyright = "4lch4"
 enableRobotsTXT = true
 pygmentsCodeFences = true
 canonifyurls = true
-paginate = 5
+paginate = 2
 
 [sitemap]
   changefreq = "weekly"
@@ -17,6 +17,6 @@ paginate = 5
 
 [params]
   description = "A collection of links to my presence on the internet."
-  # images = ["logo.jpg"]
+  images = ["https://assets.4lch4.cloud/social/Standard-Avatar.png"]
   # startPageColumns = true
   welcomeText = "Links to my presence on the internet"
