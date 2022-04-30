@@ -10,6 +10,7 @@ This repo is the home of my socials landing page, with links to my accounts/pres
 
 - [Hugo][0] - Framework used to build the website.
 - [Bootstrap BP Hugo Startpage][1] - The theme used for styling the website.
+- [FontAwesome][3] - Provides the icons for the various services/sites.
 
 ## Screenshot
 
@@ -18,3 +19,4 @@ This repo is the home of my socials landing page, with links to my accounts/pres
 [0]: https://gohugo.io
 [1]: https://themes.gohugo.io/themes/bootstrap-bp-hugo-startpage
 [2]: https://github.com/4lch4/bootstrap-bp-hugo-startpage
+[3]: https://fontawesome.com
